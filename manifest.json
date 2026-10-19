@@ -1,0 +1,1 @@
+{"id":"org.laststream.testpd","version":"1.0.0","name":"Laststream test (domaine public)","description":"Addon de test statique : liens HTTP directs de films du domaine public (archive.org).","resources":["stream"],"types":["movie"],"idPrefixes":["tt"],"catalogs":[]}
